@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+<tittle>arquitetura de Software</tittle>
+<meta charset="utf-8">
+</head>
+<body>
+<h1>Arquitetura de Software</h1>
+<h2>O que é Arquitetura de Software?</h2>
+<p>É a estrutura do sistema que é composta por elementos de Software tanto externamente visiveis quanto das relaço~es entre eles</p>
+<h2>O que os profissionais da área fazem?</h2>
+<p>arquitetos de software mapeiam e definem estruturas dos sistemas a serem desenvolvidas,identificam problemas em potencial e apresentam soluções podendo atuar como lideres em quipes de TI</p>
+<h2>Como está a área no mercado de trabalho?</h2>
+<p>Com a modernização dos negocios e sua migração para o ambiente digital a arquitetura de software vem se provando cada vez mais util e necessaria ampliando o mercado de trabalho da área conforme os softwares são criados a tendencia e o aparecimento de erros no entanot softwares criados sob a supervisão de arquitetos de software apresentam menos erros e se acontecem são mais faceis de serem modificados assim arquitetos de software trazem mais economia e produtividade para as empresas</p>
+<h2>Onde os profissionais da área podem atuar?</h2>
+<p>arquitetos de software está entre as áreas mais disputadas no mercado de trabalho senão a mais disputada na área de informática podendo atuar como:</p>
+<ul disc>
+    <li>Desenvolvimento de softwares e codificação em linguagens de programação</li>
+    <li>IA's</li>
+    <li>Lei geral de proteção de dados</li>
+    <li>Analise de codigo fonte</li>
+    <li>Exploração de binarios</li>
+    <li>banco de dados relacional e não relacional</li>
+    <li>Google cloud e outros clouds</li>
+    <li>Identificação e solução de vulnerabilidades</li>
+</ul>
+<h2>Historia da Arquitetura de software</h2>
+<ul disc >
+<li>Em 1950 surgem os primeiros sistemas de software monoliticos com pouca modularidade</li>
+<li>Em 1970 surge a programação estruturada que trouxe abordagem mais organizada e controlada para o desenvolvimentos de software</li>
+<li>Em 1980 surge o paradigama orientado a objetos que revoluciona os sistemas desenvolvidos</li>
+<li>Em 1990  com o crescimento da intrnet surge a arquitetura cliente-servidor reponsavel pela interface do usuario a um servidor</li>
+<li>Atualmente está surgindo novas tendencias a área como as IA's e arquitetura em nuvem</li>
+</ul>
+<h2>Fontes</h2>
+<ul disc>
+<li><a href ="https://www.inf.ufpr.br/andrey/ci163/IntroduzArquiteturaAl.pdf">https://www.inf.ufpr.br/andrey/ci163/IntroduzArquiteturaAl.pdf</a></li>
+<li><a href ="https://br.indeed.com/conselho-de-carreira/encontrando-emprego/o-que-faz-arquiteto-software">https://br.indeed.com/conselho-de-carreira/encontrando-emprego/o-que-faz-arquiteto-software</a></li>
+<li><a href ="https://g1.globo.com/pr/parana/especial-publicitario/pos-pucpr-digital/voce-no-futuro/noticia/2022/11/17/engenheiro-e-arquiteto-de-software-as-profissoes-mais-disputadas-da-tecnologia.ghtml">https://g1.globo.com/pr/parana/especial-publicitario/pos-pucpr-digital/voce-no-futuro/noticia/2022/11/17/engenheiro-e-arquiteto-de-software-as-profissoes-mais-disputadas-da-tecnologia.ghtml</a></li>
+<li><a href ="https://awari.com.br/historia-da-arquitetura-de-software-um-olhar-sobre-o-passado-e-sua-influencia-no-presente/">https://awari.com.br/historia-da-arquitetura-de-software-um-olhar-sobre-o-passado-e-sua-influencia-no-presente/</a></li>
+</ul>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/DgqZa2jwRe8?si=EgbIDW0fHb09xbT5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
